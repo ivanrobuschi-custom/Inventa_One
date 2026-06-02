@@ -25,9 +25,6 @@ theme:
     - search.share
     - navigation.footer
 
-  palette:
-    primary: blue grey
-
 extra_css:
   - stylesheets/extra.css
 
