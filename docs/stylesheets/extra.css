@@ -20,9 +20,9 @@
    */
 
   /* 1. Header e Colore Primario (Link, Titoli attivi) - HEX: #617C8D */
-  --md-primary-fg-color:        #617C8D;
-  --md-primary-fg-color--light: #7A92A1; /* Una variante leggermente più chiara per gli hover */
-  --md-primary-fg-color--dark:  #4B6270; /* Una variante leggermente più scura */
+  --md-primary-fg-color:        #1b3640;
+  --md-primary-fg-color--light: #334f5b; /* Una variante leggermente più chiara per gli hover */
+  --md-primary-fg-color--dark:  #1b3640; /* Una variante leggermente più scura */
 
   /* 2. Footer (Sfondo generale) - HEX: #1B3640 */
   --md-footer-bg-color:         #1B3640;
@@ -32,8 +32,8 @@
   --md-footer-bottom-bg-color:  #1B3640; 
   
   /* Assicuriamo che il testo nel footer sia bianco per contrasto */
-  --md-footer-fg-color:         #ffffff;
-  --md-footer-bottom-fg-color:  #ffffff;
+  --md-footer-fg-color:         #bfc6ca;
+  --md-footer-bottom-fg-color:  #bfc6ca;
 }
 
 /* 3. Forzatura (Fallback di sicurezza) */
