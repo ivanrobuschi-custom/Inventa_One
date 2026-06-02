@@ -43,7 +43,8 @@ plugins:
 copyright: Copyright Custom S.p.A 2026
 
 nav:
-  - Inventa One: index.md
+  - Inventa One:
+      - Home: index.md
       - Gestione licenze: gestione_licenze.md
   - Architettura e Installazione:
       - Requisiti di Sistema e OS Supportati: requisiti_di_sistema_os_supportati.md
