@@ -64,7 +64,7 @@ nav:
       - Gestione Documenti Non Fiscali: gestione_documenti_non_fiscali.md
   - Back-Office e Configurazione Sistema:
       - Anagrafiche di Base: anagrafiche_di_base.md
-      - Parametri di Sistema: 
+      - Parametri di Sistema: parametri_di_sistema.md
       - Configurazione Tabelle ristorazione: configurazione_tabelle_ristorazione.md
   - Dashboard e Reportistica:
       - Dashboard Personalizzate: dashboard_personalizzate.md
