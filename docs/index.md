@@ -10,6 +10,7 @@ Competenze per la messa in opera e il collaudo del punto vendita.
 - Caratteristiche licenze moduli:
   - Principale
   - Horeca
+  - Gestione della licenza (caratteristiche della licenza con controllo file json e riallineamento *troubleshooting*)
 
 ### PRIMA INSTALLAZIONE
 
@@ -19,7 +20,7 @@ Competenze per la messa in opera e il collaudo del punto vendita.
 - Installazione software:
  - Scelta layout grafico a seconda del dispositivo
  - Cassa principale, secondaria, palmare, terminale di sala
- - Gestione della licenza (caratteristiche della licenza con controllo file json e riallineamento *troubleshooting*)
+
 
 ### CONFIGURAZIONE BACKUP
 

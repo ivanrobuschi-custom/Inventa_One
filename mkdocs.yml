@@ -1,4 +1,4 @@
-site_name: Inventa One - Formazione Tecnica
+site_name: Inventa One - FORMAZIONE L1 STARTUP 
 site_url: https://ivanrobuschi-custom.github.io/Inventa_One/
 site_author: Ivan Robuschi
 theme:
@@ -42,34 +42,38 @@ copyright: Copyright Custom S.p.A 2026
 nav:
   - Inventa One:
       - Home: index.md
-      - Gestione licenze: gestione_licenze.md
-  - Architettura e Installazione:
-      - Requisiti di Sistema e OS Supportati: requisiti_di_sistema_os_supportati.md
-      - Installazione Windows: installazione_windows.md
-      - Installazione Linux: installazione_linux.md
-      - Installazione MacOS: installazione_macos.md
-      - Installazione Android: installazione_android.md
-      - Gestione Aggiornamenti: gestione_aggiornamenti.md    
-  - Operatività di cassa:
-      - Layout e Navigazione: layout_e_navigazione.md
-      - Gestione Articoli: gestione_articoli.md
-      - Funzioni di Vendita Avanzate: funzioni_di_vendita_avanzate.md
-      - Anagrafiche Rapide: angrafiche_rapide.md
-  - Pagamenti e Transazioni:
+  - Caratteristiche software:
+      - Architettura software: architettura_software.md
+      - Caratteristiche licenze moduli:
+        - Modulo Principale: modulo_principale.md
+        - Modulo Horeca: modulo_horeca.md
+  - Prima Installazione:
+        - Download e Requisiti: download_e_requisiti.md
+        - Gestione Licenze: gestione_licenze.md
+  - Installazione software:
+        - Installazione Windows: installazione_windows.md
+        - Installazione Linux: installazione_linux.md
+        - Installazione MacOS: installazione_macos.md
+        - Installazione Android: installazione_android.md
+  - Gestione Aggiornamenti:
+        - Automatici: agg_automatici.md
+        - Manuali: agg_manuali.md
+  - Installazione guidata:
+      - Seleziona modalità di utilizzo: selezione_modalita_utilizzo.md
+      - Scelta Layout:
+        - Nuovo Layout: nuovo_layout.md
+        - Importa Backup: importa_backup.md
+  - Configurazione dispositivo RT: 
       - Configurazione RT Custom: configurazione_rt_custom.md
-      - Emissione Fatture: emissione_fatture.md
-      - Gestione Documenti Non Fiscali: gestione_documenti_non_fiscali.md
-  - Back-Office e Configurazione Sistema:
-      - Anagrafiche di Base: anagrafiche_di_base.md
-      - Parametri di Sistema: parametri_di_sistema.md
-      - Configurazione Tabelle ristorazione: configurazione_tabelle_ristorazione.md
-  - Dashboard e Reportistica:
-      - Dashboard Personalizzate: dashboard_personalizzate.md
-      - Report di Vendita: report_di_vendita.md
-      - Analisi delle Performance: analisi_delle_performance.md
-  - Manutenzione e Diagnostica:
-      - Operazioni di Fine Turno: operazioni_di_fine_turno.md
-      - Gestione Dati: gestione_dati.md
-      - Troubleshooting: troubleshooting.md
+  - Configuraizione Backup:
+      - Backup locale: backup_locale.md
+      - Backup ftp: backup_ftp.md
+  - Configurazioni di base:
+      - Creazione e gestione REPARTO: creazione_e_gestione_reparto.md
+      - Creazione e gestione ARTICOLI: creazione_e_gestione_articoli.md
+  - Emissione primo documento commerciale:
+      - DC con pagamento contante: dc_con_pagamento_contante.md
+      - DC con pagamento elettronico: dc_con_pagamento_elettronico.md
+
 
    

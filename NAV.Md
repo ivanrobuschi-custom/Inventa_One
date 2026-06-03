@@ -1,0 +1,32 @@
+nav:
+  - Inventa One:
+      - Home: index.md
+      - Gestione licenze: gestione_licenze.md
+  - Architettura e Installazione:
+      - Requisiti di Sistema e OS Supportati: requisiti_di_sistema_os_supportati.md
+      - Installazione Windows: installazione_windows.md
+      - Installazione Linux: installazione_linux.md
+      - Installazione MacOS: installazione_macos.md
+      - Installazione Android: installazione_android.md
+      - Gestione Aggiornamenti: gestione_aggiornamenti.md    
+  - Operatività di cassa:
+      - Layout e Navigazione: layout_e_navigazione.md
+      - Gestione Articoli: gestione_articoli.md
+      - Funzioni di Vendita Avanzate: funzioni_di_vendita_avanzate.md
+      - Anagrafiche Rapide: angrafiche_rapide.md
+  - Pagamenti e Transazioni:
+      - Configurazione RT Custom: configurazione_rt_custom.md
+      - Emissione Fatture: emissione_fatture.md
+      - Gestione Documenti Non Fiscali: gestione_documenti_non_fiscali.md
+  - Back-Office e Configurazione Sistema:
+      - Anagrafiche di Base: anagrafiche_di_base.md
+      - Parametri di Sistema: parametri_di_sistema.md
+      - Configurazione Tabelle ristorazione: configurazione_tabelle_ristorazione.md
+  - Dashboard e Reportistica:
+      - Dashboard Personalizzate: dashboard_personalizzate.md
+      - Report di Vendita: report_di_vendita.md
+      - Analisi delle Performance: analisi_delle_performance.md
+  - Manutenzione e Diagnostica:
+      - Operazioni di Fine Turno: operazioni_di_fine_turno.md
+      - Gestione Dati: gestione_dati.md
+      - Troubleshooting: troubleshooting.md
