@@ -1,0 +1,31 @@
+/* 1. Definizione del Font Personalizzato */
+@font-face {
+  font-family: 'Titillium Web';
+  /* Il percorso ../ torna indietro dalla cartella stylesheets e entra in fonts */
+  src: url('../fonts/TitilliumWeb-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 2. Applicazione del Font al Tema Material e Forzatura Colori */
+:root > * {
+  /* Font */
+  --md-text-font: 'Titillium Web', sans-serif;
+
+  /* 1. Header e Colore Primario (Link, Titoli attivi) */
+  /* Ho inserito il codice #617C8D come indicato nel tuo commento originale */
+  --md-primary-fg-color:        #617C8D;
+  --md-primary-fg-color--light: #7A95A5; /* Variante hover */
+  --md-primary-fg-color--dark:  #4A6475; /* Variante scura */
+
+  /* 2. Footer (Sfondo generale) */
+  --md-footer-bg-color:         #1B3640;
+  
+  /* 3. Footer Bottom (La striscia del Copyright in basso) */
+  --md-footer-bottom-bg-color:  #11242B; /* Leggermente più scuro per staccare dal footer principale */
+  
+  /* 4. Colore del testo nel footer per garantire contrasto */
+  --md-footer-fg-color:         #bfc6ca;
+  --md-footer-bottom-fg-color:  #bfc6ca;
+}
